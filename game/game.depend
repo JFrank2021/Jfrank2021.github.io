@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1619814757 source:c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\main.cpp
+	<iostream>
+	"Person.h"
+	"Timer.h"
+	<time.h>
+	<string>
+	<fstream>
+	"Warrior.h"
+	"Magician.h"
+
+1619748258 c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\person.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1619814449 c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\include\arme.h
+	<iostream>
+	<string>
+
+1619752030 source:c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\src\arme.cpp
+	"Arme.h"
+
+1619749476 source:c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\person.cpp
+	"Person.h"
+
+1619684561 source:c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\src\timer.cpp
+	"Timer.h"
+	<time.h>
+
+1619684340 c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\include\timer.h
+
+1619752030 source:c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\src\magician.cpp
+	"Magician.h"
+
+1619748258 c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\include\magician.h
+	<iostream>
+	<string>
+	<../Person.h>
+
+1619748281 source:c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\src\warrior.cpp
+	"Warrior.h"
+
+1619752030 c:\users\administrateur.desktop-4fje1q7\desktop\c++\problems\pro_212\game\include\warrior.h
+	<iostream>
+	<string>
+	<../Person.h>
+
